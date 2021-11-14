@@ -1,0 +1,15 @@
+
+header{
+    background-color:black;
+    color:white;
+    text-align:center;
+}
+body{
+    background-color: aqua;
+}
+form{
+    text-align:center;
+}
+input{
+    margin:20px;
+}
